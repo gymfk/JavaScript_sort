@@ -1,6 +1,6 @@
 # JavaScript_sort
 
-'<table class="table table-striped sortable">
+"<table class="table table-striped sortable">
     <thead>
       <tr>
         <th data-sortable>名前</th>
@@ -15,7 +15,7 @@
       <!-- ... -->
     </tbody>
 </table>
-<script src="sortable.js"></script>'
+<script src="sortable.js"></script>"
 
 
 【ポイント解説】
