@@ -1,7 +1,6 @@
 # JavaScript_sort
 
-/*
-  <table class="table table-striped sortable">
+`  <table class="table table-striped sortable">
     <thead>
       <tr>
         <th data-sortable>名前</th>
@@ -15,8 +14,7 @@
       <tr><td>Channel B</td><td> 9,876</td><td>2,345,678</td><td>?</td></tr>
       <!-- ... -->
       
-  <script src="sortable.js"></script>
-  */    
+  <script src="sortable.js"></script> `
 【ポイント解説】
 data-sortable 属性
 　ヘッダーセル（<th>）にこれを付けるだけで、その列がクリック可能になります。
