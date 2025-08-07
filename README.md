@@ -5,6 +5,7 @@
 `    <thead>`
 
 `      <tr>`
+
 `        <th data-sortable>名前</th>`
 
 
