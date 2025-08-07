@@ -1,23 +1,36 @@
 # JavaScript_sort
 
 `<table class="table table-striped sortable">`
+
 `    <thead>`
+
 `      <tr>`
 `        <th data-sortable>名前</th>`
+
 
 `        <th data-sortable>登録者数</th>`
 
 `        <th data-sortable>再生数</th>`
+
 `        <th>備考</th>`
+
 `      </tr>`
+
 `    </thead>`
+
 `    <tbody>`
+
 `      <tr><td>Channel A</td><td>12,345</td><td>1,234,567</td><td>?</td></tr>`
+
 `      <tr><td>Channel B</td><td> 9,876</td><td>2,345,678</td><td>?</td></tr>`
+
 `      <!-- ... -->`
+
 `    </tbody>`
+
 `</table>`
-`<script src="sortable.js"></script>``
+
+`<script src="sortable.js"></script>`
 
 
 【ポイント解説】
