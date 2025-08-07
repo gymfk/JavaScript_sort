@@ -1,7 +1,7 @@
 # JavaScript_sort
 
-"<table class="table table-striped sortable">
-    <thead>
+`<table class="table table-striped sortable">`
+ `   <thead>
       <tr>
         <th data-sortable>名前</th>
         <th data-sortable>登録者数</th>
@@ -15,7 +15,7 @@
       <!-- ... -->
     </tbody>
 </table>
-<script src="sortable.js"></script>"
+<script src="sortable.js"></script>`
 
 
 【ポイント解説】
