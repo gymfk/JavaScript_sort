@@ -4,7 +4,9 @@
 `    <thead>`
 `      <tr>`
 `        <th data-sortable>名前</th>`
+
 `        <th data-sortable>登録者数</th>`
+
 `        <th data-sortable>再生数</th>`
 `        <th>備考</th>`
 `      </tr>`
